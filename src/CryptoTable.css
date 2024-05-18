@@ -1,0 +1,26 @@
+.CryptoTable{
+    
+
+    input{
+        border: 1px solid #8e8e8e;
+        background: transparent;
+        color: white;
+        width: 50vw;
+    }
+    button{
+        border: 1px solid #8e8e8e;
+        background: transparent;
+        color: white;
+    }
+
+    table{
+        border: none;
+        td{
+            border: none;
+            border-bottom: 1px solid #8e8e8e;
+            
+        }
+    }
+
+    
+}
